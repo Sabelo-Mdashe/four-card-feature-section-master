@@ -14,7 +14,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-uHDm_H4CPx)
+- Live Site URL: [Netlify](https://bucolic-mochi-4e3bf2.netlify.app/)
 - GitHub URL: [Add github URL here](https://github.com/Sabelo-Mdashe/four-card-feature-section-master)
 
 ## My process
@@ -63,6 +62,6 @@ I am makinng progress with CSS I really feel like I am getting better and better
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Sabelo Mdashe](http://sabelomdashe.co.za)
+- Frontend Mentor - [@Sabelo-Mdashe](https://www.frontendmentor.io/profile/Sabelo-Mdashe)
 - GitHub - [https://github.com/Sabelo-Mdashe]
